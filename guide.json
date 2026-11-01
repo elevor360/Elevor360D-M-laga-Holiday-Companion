@@ -1,0 +1,308 @@
+{
+  "version": "3.0",
+  "destination": "Málaga, Costa del Sol",
+  "updated": "2026-11-01",
+  "intro": "Explore Málaga city on the Costa del Sol: the Alcazaba, Roman Theatre, Picasso Museum, historic streets, lively harbour and beaches. Plan your days and keep favourite places, memorable visits and photos on your device.",
+  "areas": [
+    {
+      "name": "Centro Histórico",
+      "description": "Walk the pedestrian streets around Calle Larios, Plaza de la Constitución and Málaga Cathedral."
+    },
+    {
+      "name": "La Malagueta",
+      "description": "City beach neighbourhood close to the harbour and bullring."
+    },
+    {
+      "name": "Soho",
+      "description": "Creative district known for street art and galleries."
+    },
+    {
+      "name": "Muelle Uno",
+      "description": "Waterfront shopping, dining and promenades beside the port."
+    },
+    {
+      "name": "Pedregalejo",
+      "description": "Traditional seafront area known for beach restaurants and grilled fish."
+    },
+    {
+      "name": "El Palo",
+      "description": "Local coastal neighbourhood east of the centre."
+    },
+    {
+      "name": "Teatinos",
+      "description": "Residential university district with restaurants and transport connections."
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Alcazaba of Málaga",
+      "description": "Historic Moorish fortress with city views; check official visiting hours and ticket information."
+    },
+    {
+      "name": "Roman Theatre",
+      "description": "Ancient theatre beside the Alcazaba; check access and exhibitions."
+    },
+    {
+      "name": "Castillo de Gibralfaro",
+      "description": "Hilltop castle with panoramic views; steep uphill access."
+    },
+    {
+      "name": "Museo Picasso Málaga",
+      "description": "Art museum in the historic centre; check exhibitions and booking."
+    },
+    {
+      "name": "Málaga Cathedral",
+      "description": "Landmark cathedral near the old town; check visiting arrangements."
+    },
+    {
+      "name": "Centre Pompidou Málaga",
+      "description": "Art centre by Muelle Uno; check current exhibitions."
+    }
+  ],
+  "transport": [
+    {
+      "name": "Málaga Airport",
+      "description": "Málaga–Costa del Sol Airport serves the city; check airport rail and bus connections."
+    },
+    {
+      "name": "Cercanías C1 train",
+      "description": "Links Málaga city, the airport, Torremolinos, Benalmádena and Fuengirola; check Renfe timetables."
+    },
+    {
+      "name": "Metro de Málaga",
+      "description": "Urban metro lines serve parts of the city; check stations and current service."
+    },
+    {
+      "name": "EMT city buses",
+      "description": "Local bus network serving beaches and neighbourhoods; check current routes."
+    },
+    {
+      "name": "Walking",
+      "description": "The historic centre is largely pedestrianised; some castle routes are steep."
+    },
+    {
+      "name": "Taxis and ride services",
+      "description": "Use licensed providers and confirm pickup locations and fares."
+    }
+  ],
+  "useful": [
+    {
+      "name": "Emergency services",
+      "description": "Dial 112 for emergencies in Spain."
+    },
+    {
+      "name": "Currency",
+      "description": "Euro (€); check bank and card charges."
+    },
+    {
+      "name": "Travel documents",
+      "description": "Check current UK government Spain travel advice and passport requirements."
+    },
+    {
+      "name": "Language",
+      "description": "Spanish is the official language; English is widely spoken in tourist areas."
+    },
+    {
+      "name": "Beach safety",
+      "description": "Follow beach flags, lifeguard advice and weather warnings."
+    },
+    {
+      "name": "Time zone",
+      "description": "Mainland Spain is generally one hour ahead of the UK."
+    },
+    {
+      "name": "Sun protection",
+      "description": "Carry drinking water, sunscreen and a hat, especially in summer."
+    }
+  ],
+  "links": [
+    {
+      "name": "Spain travel advice (UK)",
+      "url": "https://www.gov.uk/foreign-travel-advice/spain"
+    },
+    {
+      "name": "Málaga tourism official website",
+      "url": "https://visita.malaga.eu/"
+    },
+    {
+      "name": "Málaga city buses (EMT)",
+      "url": "https://www.emtmalaga.es/"
+    },
+    {
+      "name": "Renfe trains",
+      "url": "https://www.renfe.com/"
+    },
+    {
+      "name": "Málaga Airport (Aena)",
+      "url": "https://www.aena.es/en/malaga-costa-del-sol.html"
+    }
+  ],
+  "advert": {
+    "enabled": false,
+    "image": "adverts/advert.jpg",
+    "link": "",
+    "alt": "Málaga local business advertisement"
+  },
+  "beaches": [
+    {
+      "name": "Playa de la Malagueta",
+      "description": "Popular central city beach near the port."
+    },
+    {
+      "name": "Playa de la Caleta",
+      "description": "Long sandy stretch east of La Malagueta."
+    },
+    {
+      "name": "Playa de Pedregalejo",
+      "description": "Seafront beach with restaurants and promenade."
+    },
+    {
+      "name": "Playa de El Palo",
+      "description": "Neighbourhood beach known for traditional seafood eateries."
+    },
+    {
+      "name": "Playa de Huelin",
+      "description": "Urban beach west of the port with nearby parks and promenade."
+    }
+  ],
+  "markets": [
+    {
+      "name": "Mercado Central de Atarazanas",
+      "description": "Historic food market with produce and tapas stalls; check trading days."
+    },
+    {
+      "name": "Calle Larios",
+      "description": "Main shopping street in the historic centre."
+    },
+    {
+      "name": "Muelle Uno",
+      "description": "Harbour-side shops, dining and seasonal events."
+    },
+    {
+      "name": "Soho galleries and shops",
+      "description": "Independent creative businesses and street art."
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Plaza de la Merced",
+      "description": "Cafés and evening venues around a lively historic square."
+    },
+    {
+      "name": "Historic centre",
+      "description": "Tapas bars and restaurants around the old town."
+    },
+    {
+      "name": "Muelle Uno",
+      "description": "Harbour-side evening walks and dining."
+    },
+    {
+      "name": "Pedregalejo seafront",
+      "description": "Relaxed beachside restaurants and bars."
+    }
+  ],
+  "family": [
+    {
+      "name": "Muelle Uno waterfront",
+      "description": "Easy harbour walks and family-friendly dining."
+    },
+    {
+      "name": "Parque de Málaga",
+      "description": "Shaded green space near the old town and port."
+    },
+    {
+      "name": "Interactive Music Museum",
+      "description": "Hands-on exhibits; check family programmes."
+    },
+    {
+      "name": "La Malagueta beach",
+      "description": "Beach day close to central amenities; follow swimming flags."
+    },
+    {
+      "name": "Gibralfaro viewpoints",
+      "description": "City views, though the walk can be steep."
+    }
+  ],
+  "dining": [
+    {
+      "name": "Atarazanas market area",
+      "description": "Fresh produce, small tapas stalls and local food."
+    },
+    {
+      "name": "Centro Histórico",
+      "description": "Traditional tapas, cafés and restaurants."
+    },
+    {
+      "name": "Pedregalejo",
+      "description": "Beachside seafood restaurants and espetos (grilled sardines)."
+    },
+    {
+      "name": "El Palo",
+      "description": "Neighbourhood seafood spots and casual dining."
+    },
+    {
+      "name": "Muelle Uno",
+      "description": "Harbour-view restaurants and cafés."
+    }
+  ],
+  "daytrips": [
+    {
+      "name": "Nerja",
+      "description": "Coastal town with beaches and viewpoints; check bus options."
+    },
+    {
+      "name": "Frigiliana",
+      "description": "Whitewashed hillside village; often combined with Nerja."
+    },
+    {
+      "name": "Ronda",
+      "description": "Historic town famous for its gorge and bridge; check rail or bus routes."
+    },
+    {
+      "name": "Antequera",
+      "description": "Historic town with dolmens and nearby natural scenery."
+    },
+    {
+      "name": "Torremolinos",
+      "description": "Beach resort reachable on the C1 train."
+    },
+    {
+      "name": "Fuengirola",
+      "description": "Seafront town accessible by the C1 train."
+    }
+  ],
+  "mapPlaces": [
+    {
+      "name": "Alcazaba",
+      "description": "Alcazaba de Málaga, Málaga, Spain"
+    },
+    {
+      "name": "Roman Theatre",
+      "description": "Teatro Romano de Málaga, Málaga, Spain"
+    },
+    {
+      "name": "Málaga Cathedral",
+      "description": "Catedral de Málaga, Málaga, Spain"
+    },
+    {
+      "name": "Picasso Museum",
+      "description": "Museo Picasso Málaga, Málaga, Spain"
+    },
+    {
+      "name": "Gibralfaro Castle",
+      "description": "Castillo de Gibralfaro, Málaga, Spain"
+    },
+    {
+      "name": "La Malagueta Beach",
+      "description": "Playa de la Malagueta, Málaga, Spain"
+    },
+    {
+      "name": "Atarazanas Market",
+      "description": "Mercado Central de Atarazanas, Málaga, Spain"
+    },
+    {
+      "name": "Muelle Uno",
+      "description": "Muelle Uno, Málaga, Spain"
+    }
+  ]
+}
